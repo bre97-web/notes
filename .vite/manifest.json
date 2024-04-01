@@ -1,0 +1,28 @@
+{
+  "index.html": {
+    "file": "assets/index-egYfr9fO.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-Bm4g2Cc8.css"
+    ],
+    "assets": [
+      "assets/material-symbols-outlined-CPd56_Ad.woff2",
+      "assets/material-symbols-rounded-BYUYXMhn.woff2",
+      "assets/material-symbols-sharp-Cdkug95h.woff2"
+    ]
+  },
+  "node_modules/material-symbols/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-CPd56_Ad.woff2",
+    "src": "node_modules/material-symbols/material-symbols-outlined.woff2"
+  },
+  "node_modules/material-symbols/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-BYUYXMhn.woff2",
+    "src": "node_modules/material-symbols/material-symbols-rounded.woff2"
+  },
+  "node_modules/material-symbols/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-Cdkug95h.woff2",
+    "src": "node_modules/material-symbols/material-symbols-sharp.woff2"
+  }
+}
