@@ -1,0 +1,28 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.indentSize": 4,
+    "editor.tabSize": 4,
+    "typescript.format.semicolons": "remove",
+    "typescript.autoClosingTags": true,
+    "typescript.format.indentSwitchCase": true,
+    "typescript.preferences.quoteStyle": "single",
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "html.format.preserveNewLines": true,
+    "html.format.wrapAttributes": "force-expand-multiline",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "editor.formatOnSave": true,
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar",
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+        "editor.indentSize": 4,
+    },
+    "files.encoding": "utf8",
+}
